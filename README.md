@@ -6,7 +6,7 @@ Gosto da habilidade de criar um projeto útil que me será de utilidade a longo 
 ## Sobre mim
 
 -  Atualmente, estou estudando no Colegio COTEMIG.
--  Estou aprendendo: Flutter, desenvolvimento iOS e Android.
+-  Estou aprendendo: Flutter, desenvolvimento iOS e Android .
 -  Estou procurando colaborar em: Criação de sites, designs e suporte técnico.
 -  Veja meu portfólio: thitrioli.github.io/PortFolio/
 -  Curiosidade: Inglês fluente, aprendendo Francês, Faço Muay Thai.
