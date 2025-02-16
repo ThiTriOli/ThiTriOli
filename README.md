@@ -9,7 +9,7 @@ Gosto da habilidade de criar um projeto útil que me será de utilidade a longo 
 -  Estou aprendendo: Flutter, desenvolvimento iOS e Android .
 -  Estou procurando colaborar em: Criação de sites, designs e suporte técnico.
 -  Veja meu portfólio: thitrioli.github.io/PortFolio/
--  Curiosidade: Inglês fluente, aprendendo Francês, Faço Muay Thai.
+-  Curiosidade: Inglês fluente, aprendendo Francês, Faço Muay Thai.  <a href="http://linkedin.com/in/thiago-tristão">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
