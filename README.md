@@ -1,7 +1,7 @@
 # Olá, eu sou Thiago! 👋
 
 Paixão por Html, Css, Javascript e MySql.
-Gosto da habilidade de criar um projeto útil que me será de utilidade a longo prazo. 
+Gosto da habilidade de criar um projeto que me será de utilidade a longo prazo. 
 
 ## Sobre mim
 
