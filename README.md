@@ -9,7 +9,7 @@ Gosto da habilidade de criar um projeto que me será de utilidade a longo prazo.
 -  Estou aprendendo: Flutter, desenvolvimento iOS e Android .
 -  Estou procurando colaborar em: Criação de sites, designs e suporte técnico.
 -  Veja meu portfólio: thitrioli.github.io/PortFolio/
--  Curiosidade: Inglês fluente, aprendendo Francês, Faço Muay Thai.  
+-  Curiosidade: Inglês c1, aprendendo Francês, Faço Muay Thai.  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
